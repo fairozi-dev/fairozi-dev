@@ -1,113 +1,239 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,25:DB2777,55:2563EB,80:0891B2,100:7C3AED&height=220&section=header&text=FAIROZI.DEV&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Mahasiswa%20Teknik%20Informatika%20%7C%20UNESA&descSize=16&descColor=E0F2FE&descAlignY=57&animation=fadeIn" width="100%" alt="Fairozi Neon Aurora Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,25:3C096C,55:7B2CBF,80:C77DFF,100:E0AAFF&height=230&section=header&text=THE%20PIXELBOUND%20CHRONICLES&fontSize=35&fontColor=FFFFFF&fontAlignY=36&desc=AN%20INFORMATICS%20ADVENTURE&descAlignY=58&descSize=16&animation=fadeIn" alt="The Pixelbound Chronicles"/>
 
-<a href="https://github.com/fairozi-dev">
-  <img src="https://img.shields.io/badge/GitHub-fairozi--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/🎓-Mahasiswa%20UNESA-7C3AED?style=for-the-badge" alt="Mahasiswa UNESA"/>
-<img src="https://img.shields.io/badge/🚀-Always%20Learning-0891B2?style=for-the-badge" alt="Always Learning"/>
+<br/>
 
-### ✨ Belajar · Berkarya · Terus Berkembang
+<div align="center">
+  <img
+    src="assets/pixel/hero.gif"
+    width="192"
+    alt="ElfGirl Fantasy Pixel Hero Animation"
+  />
+</div>
 
-*Dari rasa ingin tahu menjadi ide, dari ide menjadi karya.*
+# ✦ FAIROZI ✦
+
+### `CODE EXPLORER · WORLD BUILDER · QUEST SEEKER`
+
+*Every line of code unlocks a new world.*
+
+[![GitHub](https://img.shields.io/badge/GITHUB-fairozi--dev-181717?style=for-the-badge&logo=github)](https://github.com/fairozi-dev)
+[![Live Demo](https://img.shields.io/badge/ENTER-LIVE%20DEMO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
+[![Profile Views](https://komarev.com/ghpvc/?username=fairozi-dev&style=for-the-badge&color=9D4EDD&label=VISITORS)](https://github.com/fairozi-dev)
 
 </div>
 
 ---
 
-## 💜 Tentang Saya
+## 🧙 CHARACTER PROFILE
 
-Halo! Saya mahasiswa baru **Program Studi Teknik Informatika, Universitas Negeri Surabaya (UNESA)** yang sedang memulai perjalanan lebih dalam di dunia teknologi dan ilmu komputer.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Saya tertarik memahami cara kerja program, mengembangkan aplikasi, mempelajari algoritma, dan membangun solusi melalui teknologi.
+### 📜 Adventurer's Journal
 
-🌱 Saat ini saya berfokus pada:
-- 💻 Dasar pemrograman dan algoritma.
-- 🧠 Logika, problem solving, dan computational thinking.
-- 🌐 Pengembangan aplikasi web dan pengelolaan database.
-- 🛠️ Penggunaan Git dan GitHub untuk mengelola proyek.
-- 🚀 Eksplorasi berbagai bidang informatika melalui proyek nyata.
+Hello, adventurer! I'm an Informatics Engineering student at Universitas Negeri Surabaya, exploring the world of programming one quest at a time.
 
-> Saya tidak ingin berhenti pada satu teknologi. Saya ingin terus bereksperimen, belajar, dan berkembang menjadi software engineer yang kompeten.
+I enjoy learning how applications work, building useful projects, solving problems, and discovering new technologies.
 
-## 🌈 Tech Stack & Tools
+My journey is still in progress. Every bug is a monster to defeat, every project is a dungeon to explore, and every solution is another level unlocked.
 
-<div align="center">
+</td>
+<td width="42%" valign="top">
 
-**💻 Programming & Web Development**
+### ⚔️ Player Status
 
-<img src="https://skillicons.dev/icons?i=cpp,php,html,css,js&theme=dark" alt="Programming languages"/>
+| ATTRIBUTE | VALUE |
+|:--|:--|
+| Player | Fairozi |
+| Class | Code Explorer |
+| Realm | Informatics |
+| Main Weapon | Keyboard |
+| Special Skill | Problem Solving |
+| Current Quest | Leveling Up |
 
-**🗄️ Database & Development Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,bootstrap&theme=dark" alt="Development tools"/>
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fairozi-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=E6EDF3&icon_color=7DF9FF&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairozi-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=E6EDF3" alt="Most Used Languages" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=fairozi-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=7DF9FF&currStreakLabel=FF79C6" alt="GitHub Contribution Streak" width="100%"/>
-
-</div>
-
-## 🚀 Projects & Experiments
-
-Tempat saya mendokumentasikan karya, latihan, dan eksperimen selama mempelajari teknologi.
-
-### 🟣 Web Development
-**Sistem Peminjaman Alat**
-
-Aplikasi web untuk pengelolaan alat, pengajuan peminjaman, verifikasi, pengembalian, dan laporan transaksi.
-
-`PHP` `MySQL` `Bootstrap`
-
-Status: 🚧 Dalam Pengembangan
-
-### 🔵 Programming & Algorithms
-**Latihan Pemrograman dan Algoritma**
-
-Kumpulan latihan untuk memahami logika program, percabangan, perulangan, fungsi, dan penyelesaian masalah.
-
-Status: 🌱 Akan Dikembangkan
-
-### 🩷 More Projects Coming Soon
-
-Proyek baru akan ditambahkan seiring bertambahnya pengalaman, pengetahuan, dan ide yang ingin saya realisasikan.
-
-## 🧠 Learning Roadmap
-
-| Bidang | Fokus |
-|---|---|
-| Programming | Memahami dasar dan praktik menulis kode |
-| Algorithms | Logika, flowchart, dan problem solving |
-| Computer Science | Fondasi ilmu komputer |
-| Web Development | Frontend, backend, dan database |
-| Software Engineering | Git, debugging, struktur kode, dan pengembangan aplikasi |
-
-## 🎯 My Goals
-
-- [ ] Memperkuat fondasi pemrograman.
-- [ ] Memahami algoritma dan struktur data.
-- [ ] Membuat proyek yang semakin kompleks.
-- [ ] Belajar berkolaborasi menggunakan Git dan GitHub.
-- [ ] Membangun portofolio yang terus berkembang.
+</td>
+</tr>
+</table>
 
 ---
 
+## 🗺️ WORLD MAP
+
 <div align="center">
 
-### ⚡ Keep Learning. Keep Building. Keep Growing.
+| 🌲 THE FOREST | 🏰 THE CASTLE | 🔮 THE NEXT REALM |
+|:---:|:---:|:---:|
+| Learn the fundamentals | Build real applications | Explore new technologies |
+| `LEARNING` | `BUILDING` | `UNLOCKING` |
 
-**Terima kasih sudah berkunjung ke profil saya!** 💜
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:2563EB,65:0891B2,100:DB2777&height=120&section=footer" width="100%" alt="Colorful footer"/>
+```text
+                     ✦ ADVENTURE MAP ✦
+
+  START
+    |
+    v
+  [ Learn the Basics ]
+    |
+    v
+  [ Practice the Magic of Code ]
+    |
+    v
+  [ Build Useful Applications ]
+    |
+    v
+  [ Hunt Bugs & Solve Problems ]
+    |
+    v
+  [ Explore New Technologies ]
+    |
+    v
+  FINAL QUEST: Become a Better Developer
+```
+
+---
+
+## 🎒 INVENTORY — TECH STACK
+
+*Tools and technologies collected throughout my adventure.*
+
+### 🪄 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python&theme=dark" alt="Programming Languages"/>
+
+</div>
+
+### 🛠️ Tools & Equipment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,bootstrap,linux&theme=dark" alt="Development Tools"/>
+
+</div>
+
+> These icons represent technologies I use or am learning. My experience with each technology varies, and I'm continuously improving my skills.
+
+---
+
+## 📜 MAIN QUEST — SISTEM PEMINJAMAN ALAT
+
+<div align="center">
+
+### 🧰 THE EQUIPMENT MANAGEMENT GUILD
+
+*A web application for managing equipment borrowing and returns.*
+
+[![Open Live Demo](https://img.shields.io/badge/⚔️_ENTER_THE_GUILD-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Quest Objectives
+
+- Manage equipment and categories.
+- Submit equipment borrowing requests.
+- Verify borrowing requests.
+- Track borrowing and returns.
+- Generate borrowing reports.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Equipment Used
+
+- PHP
+- MySQL / MariaDB
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**QUEST STATUS: DEPLOYED**
+
+[**🌐 Visit the Live Website →**](https://peminjamanalat.site.je/)
+
+</div>
+
+> The live demo is public. The project's source-code repository remains private.
+
+---
+
+## 📊 PLAYER STATISTICS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=fairozi-dev&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairozi-dev&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" alt="Top Languages"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=fairozi-dev&theme=midnight-purple&hide_border=true&background=0D0221&ring=C77DFF&fire=FF9E00&currStreakLabel=E0AAFF" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT GALLERY
+
+<div align="center">
+
+| ACHIEVEMENT | DESCRIPTION | STATUS |
+|:--|:--|:--:|
+| 🧭 First Steps | Start the programming journey | UNLOCKED |
+| 🛠️ The Builder | Build a functional application | UNLOCKED |
+| 🌐 World Explorer | Deploy a website | UNLOCKED |
+| 🐛 Bug Hunter | Learn through debugging | IN PROGRESS |
+| 🔮 Code Apprentice | Learn new technologies | IN PROGRESS |
+| 👑 Future Legend | Keep improving as a developer | ONGOING |
+
+</div>
+
+*Personal milestones for my developer journey, not official GitHub achievements.*
+
+---
+
+## 📖 QUEST LOG
+
+- [x] Start learning programming.
+- [x] Build a web-based application.
+- [x] Deploy a project online.
+- [x] Create a GitHub profile.
+- [ ] Improve programming fundamentals.
+- [ ] Build more interesting projects.
+- [ ] Explore modern frameworks.
+- [ ] Contribute to open-source projects.
+- [ ] Unlock new developer skills.
+
+---
+
+## 🌙 THE ADVENTURE CONTINUES
+
+<div align="center">
+
+*Somewhere beyond the next bug, a new skill awaits.*
+
+**LEARN · BUILD · DEBUG · REPEAT**
+
+[![Explore My GitHub](https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fairozi-dev)
+
+[![Visit Live Demo](https://img.shields.io/badge/PLAY-LIVE%20DEMO-3C096C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,30:C77DFF,65:7B2CBF,100:10002B&height=130&section=footer" alt="Fantasy Footer"/>
+
+<sub>Crafted with curiosity, powered by code, inspired by pixel fantasy RPGs.</sub>
 
 </div>
