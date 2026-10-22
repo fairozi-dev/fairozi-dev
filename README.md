@@ -1,135 +1,266 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,25:3C096C,55:7B2CBF,80:C77DFF,100:E0AAFF&height=230&section=header&text=THE%20PIXELBOUND%20CHRONICLES&fontSize=35&fontColor=FFFFFF&fontAlignY=36&desc=AN%20INFORMATICS%20ADVENTURE&descAlignY=58&descSize=16&animation=fadeIn" alt="The Pixelbound Chronicles"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B2118&height=12" alt="Garis pembuka hutan"/>
 
 <br/>
 
-<div align="center">
-  <img
-    src="assets/pixel/hero.gif"
-    width="192"
-    alt="ElfGirl Fantasy Pixel Hero Animation"
-  />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1200&color=E5C17B&center=true&vCenter=true&width=800&height=60&lines=THE+PIXELBOUND+CHRONICLES;PETUALANGAN+SEORANG+CODE+EXPLORER;PRESS+START+TO+BEGIN" alt="Judul animasi The Pixelbound Chronicles"/>
 
-# ✦ FAIROZI ✦
+<br/>
 
-### `CODE EXPLORER · WORLD BUILDER · QUEST SEEKER`
+<img src="assets/pixel/hero.gif" width="150" alt="Karakter ElfGirl"/>
 
-*Every line of code unlocks a new world.*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-fairozi--dev-181717?style=for-the-badge&logo=github)](https://github.com/fairozi-dev)
-[![Live Demo](https://img.shields.io/badge/ENTER-LIVE%20DEMO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
-[![Profile Views](https://komarev.com/ghpvc/?username=fairozi-dev&style=for-the-badge&color=9D4EDD&label=VISITORS)](https://github.com/fairozi-dev)
+```text
+╔════════════════════════════════════════════╗
+║                                            ║
+║         THE PIXELBOUND CHRONICLES          ║
+║                                            ║
+║           ~ Code Explorer Saga ~           ║
+║                                            ║
+║              > NEW GAME                    ║
+║                CONTINUE                    ║
+║                OPTIONS                     ║
+║                                            ║
+║      (c) 2026 FAIROZI  -  PRESS START      ║
+╚════════════════════════════════════════════╝
+```
+
+*Setiap baris kode membuka dunia baru. Setiap tantangan membawa kita naik level.*
+
+<br/>
+
+<a href="https://github.com/fairozi-dev"><img src="https://img.shields.io/badge/PEMAIN-fairozi--dev-24392C?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub"/></a>
+<a href="https://peminjamanalat.site.je/"><img src="https://img.shields.io/badge/BUKA-QUEST%20UTAMA-B58A42?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo proyek"/></a>
+
+<br/><br/>
+
+<img src="assets/pixel/ui/heart_full.png" width="22" alt="HP penuh"/>
+<img src="assets/pixel/ui/heart_full.png" width="22" alt="HP penuh"/>
+<img src="assets/pixel/ui/heart_full.png" width="22" alt="HP penuh"/>
+<img src="assets/pixel/ui/heart_half.png" width="22" alt="Setengah HP"/>
+<img src="assets/pixel/ui/heart_empty.png" width="22" alt="HP kosong"/>
+
+`STATUS: TERUS BELAJAR · TERUS BERKEMBANG`
+
+<br/>
+
+<img width="100%" src="assets/pixel/world/background_rpg.png" alt="Dunia petualangan pixel art"/>
+
+<sub>SEBUAH DUNIA YANG DIBANGUN DARI RASA INGIN TAHU DAN KETEKUNAN</sub>
 
 </div>
 
 ---
 
-## 🧙 CHARACTER PROFILE
+## 🧝 PROFIL KARAKTER
+
+<div align="center">
+
+```text
+╔═ LAYAR STATUS ═════════════════════════════════╗
+║  PEMAIN : FAIROZI                              ║
+║  CLASS  : CODE EXPLORER                        ║
+║  GUILD  : TEKNIK INFORMATIKA - UNESA           ║
+║  LEVEL  : MAHASISWA S1 (SEDANG NAIK LEVEL)     ║
+╠════════════════════════════════════════════════╣
+║  HP  ██████████ 100%  SEMANGAT                 ║
+║  MP  █████████░  90%  RASA INGIN TAHU          ║
+║  XP  ██████░░░░  60%  PROGRES BELAJAR          ║
+╠════════════════════════════════════════════════╣
+║  QUEST AKTIF : MEMPERKUAT DASAR PEMROGRAMAN    ║
+╚════════════════════════════════════════════════╝
+```
+
+</div>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 📜 Adventurer's Journal
+### 📜 Catatan Petualang
 
-Hello, adventurer! I'm an Informatics Engineering student at Universitas Negeri Surabaya, exploring the world of programming one quest at a time.
+Halo, petualang!
 
-I enjoy learning how applications work, building useful projects, solving problems, and discovering new technologies.
+Saya mahasiswa **S1 Teknik Informatika Universitas Negeri Surabaya (UNESA)** yang sedang menjelajahi dunia pemrograman, satu quest dalam satu waktu.
 
-My journey is still in progress. Every bug is a monster to defeat, every project is a dungeon to explore, and every solution is another level unlocked.
+Saya tertarik mempelajari cara kerja aplikasi, membangun proyek yang bermanfaat, memecahkan masalah, dan mencoba teknologi baru.
+
+Bagi saya, setiap bug adalah monster yang harus dikalahkan, setiap proyek adalah dungeon yang harus dijelajahi, dan setiap solusi adalah level baru yang berhasil dibuka.
 
 </td>
 <td width="42%" valign="top">
 
-### ⚔️ Player Status
+### ⚔️ Atribut Pemain
 
-| ATTRIBUTE | VALUE |
+| Atribut | Status |
 |:--|:--|
-| Player | Fairozi |
+| Nama | Fairozi |
 | Class | Code Explorer |
-| Realm | Informatics |
-| Main Weapon | Keyboard |
-| Special Skill | Problem Solving |
-| Current Quest | Leveling Up |
+| Realm | Informatika |
+| Senjata Utama | Keyboard |
+| Skill | Problem Solving |
+| Misi Aktif | Level Up |
 
 </td>
 </tr>
 </table>
 
----
-
-## 🗺️ WORLD MAP
-
 <div align="center">
 
-| 🌲 THE FOREST | 🏰 THE CASTLE | 🔮 THE NEXT REALM |
-|:---:|:---:|:---:|
-| Learn the fundamentals | Build real applications | Explore new technologies |
-| `LEARNING` | `BUILDING` | `UNLOCKING` |
-
-</div>
+<img src="assets/pixel/ui/bubble_talk_left.png" width="48" alt="Balon dialog"/>
 
 ```text
-                     ✦ ADVENTURE MAP ✦
-
-  START
-    |
-    v
-  [ Learn the Basics ]
-    |
-    v
-  [ Practice the Magic of Code ]
-    |
-    v
-  [ Build Useful Applications ]
-    |
-    v
-  [ Hunt Bugs & Solve Problems ]
-    |
-    v
-  [ Explore New Technologies ]
-    |
-    v
-  FINAL QUEST: Become a Better Developer
+┌─ GURU PETUALANG ─────────────────────────────┐
+│                                              │
+│  "Setiap bug adalah monster yang bisa        │
+│   dikalahkan. Terus maju, petualang!"        │
+│                                              │
+│                                  [v] LANJUT  │
+└──────────────────────────────────────────────┘
 ```
 
----
-
-## 🎒 INVENTORY — TECH STACK
-
-*Tools and technologies collected throughout my adventure.*
-
-### 🪄 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python&theme=dark" alt="Programming Languages"/>
-
 </div>
-
-### 🛠️ Tools & Equipment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,bootstrap,linux&theme=dark" alt="Development Tools"/>
-
-</div>
-
-> These icons represent technologies I use or am learning. My experience with each technology varies, and I'm continuously improving my skills.
 
 ---
 
-## 📜 MAIN QUEST — SISTEM PEMINJAMAN ALAT
+## 🗺️ PETA PETUALANGAN
 
 <div align="center">
 
-### 🧰 THE EQUIPMENT MANAGEMENT GUILD
+| 🌲 HUTAN ZAMRUD | 🏰 KASTEL DEVELOPER | 🔮 DUNIA BERIKUTNYA |
+|:---:|:---:|:---:|
+| Mempelajari dasar pemrograman | Membangun aplikasi nyata | Menjelajahi teknologi baru |
+| `LEARNING` | `BUILDING` | `DISCOVERING` |
 
-*A web application for managing equipment borrowing and returns.*
+```text
+╔═ PETA DUNIA ═══════════════════════════════════════════════╗
+║                                                            ║
+║  [1] HUTAN ZAMRUD       : BELAJAR DASAR                    ║
+║    |                                                       ║
+║    +--[2] TEMPAT LATIHAN    : ASAH SKILL                   ║
+║         |                                                  ║
+║         +--[3] KASTEL DEVELOPER  : BANGUN PROYEK           ║
+║              |                                             ║
+║              +--[4] DUNIA BERIKUTNYA  : TEKNOLOGI BARU     ║
+║                                                            ║
+║  LEGENDA : [#] AREA   |   +--> JALUR PETUALANGAN           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-[![Open Live Demo](https://img.shields.io/badge/⚔️_ENTER_THE_GUILD-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
+</div>
+
+---
+
+## 🎒 INVENTORY — KOLEKSI ITEM
+
+*Peralatan yang menemani perjalanan saya di dunia teknologi.*
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="assets/pixel/items/sword.png" width="42" alt="Pedang"/>
+<br/><sub>CODE BLADE</sub>
+</td>
+<td align="center" width="100">
+<img src="assets/pixel/items/shield.png" width="42" alt="Perisai"/>
+<br/><sub>DEFENSE</sub>
+</td>
+<td align="center" width="100">
+<img src="assets/pixel/items/potion.png" width="42" alt="Potion"/>
+<br/><sub>RECOVERY</sub>
+</td>
+<td align="center" width="100">
+<img src="assets/pixel/items/gem.png" width="42" alt="Kristal"/>
+<br/><sub>RARE SKILL</sub>
+</td>
+<td align="center" width="100">
+<img src="assets/pixel/items/scroll.png" width="42" alt="Gulungan"/>
+<br/><sub>KNOWLEDGE</sub>
+</td>
+<td align="center" width="100">
+<img src="assets/pixel/items/lantern.png" width="42" alt="Lentera"/>
+<br/><sub>EXPLORATION</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🛡️ Perlengkapan Terpasang
+
+<div align="center">
+
+| Slot | Item | Efek |
+|:--|:--|:--|
+| ⚔️ Senjata | Keyboard | Menebas bug dan menulis mantra kode |
+| 🏰 Armor | Visual Studio Code | Menjaga fokus selama bertarung |
+| 🛡️ Perisai | Git dan GitHub | Melindungi dari kehilangan progres |
+| 📜 Grimoire | MySQL | Menyimpan catatan data petualangan |
+| 🧥 Jubah | Bootstrap | Membuat tampilan aplikasi lebih rapi |
+| 🧭 Kompas | Linux | Menjelajahi dunia terminal |
+
+</div>
+
+### 🪄 Sihir Pemrograman
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python&theme=dark" alt="Bahasa pemrograman"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,bootstrap,linux&theme=dark" alt="Peralatan pengembangan"/>
+
+</div>
+
+### 📖 Buku Mantra
+
+<div align="center">
+
+| Mantra | Tingkat | Status |
+|:--|:--:|:--:|
+| PHP | ★★★☆☆ | `AKTIF DIPAKAI` |
+| MySQL | ★★★☆☆ | `AKTIF DIPAKAI` |
+| HTML dan CSS | ★★★☆☆ | `AKTIF DIPAKAI` |
+| Bootstrap | ★★★☆☆ | `AKTIF DIPAKAI` |
+| JavaScript | ★★☆☆☆ | `LATIHAN` |
+| Git dan GitHub | ★★☆☆☆ | `LATIHAN` |
+| C++ | ★★☆☆☆ | `LATIHAN` |
+| Python | ★★☆☆☆ | `LATIHAN` |
+
+</div>
+
+<sub>Teknologi di atas merupakan alat yang saya gunakan atau sedang pelajari. Perjalanan untuk menguasai semuanya masih terus berlangsung.</sub>
+
+---
+
+## 📜 QUEST UTAMA — GUILD PEMINJAMAN ALAT
+
+<div align="center">
+
+<img src="assets/pixel/ui/quest_available.png" width="32" alt="Quest tersedia"/>
+
+### 🧰 SISTEM PEMINJAMAN ALAT
+
+*Aplikasi web untuk mengelola peminjaman, verifikasi, pengembalian, dan laporan alat.*
+
+```text
+╔═ QUEST UTAMA ══════════════════════════════════════╗
+║                                                    ║
+║  NAMA     : SISTEM PEMINJAMAN ALAT                 ║
+║  GUILD    : GUILD PEMINJAMAN ALAT                  ║
+║  STATUS   : SELESAI DI-DEPLOY                      ║
+║  REWARD   : PENGALAMAN MEMBANGUN APLIKASI WEB      ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+<a href="https://peminjamanalat.site.je/"><img src="https://img.shields.io/badge/⚔%20MASUK%20KE%20GUILD-B58A42?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buka aplikasi"/></a>
 
 </div>
 
@@ -137,23 +268,22 @@ My journey is still in progress. Every bug is a monster to defeat, every project
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Quest Objectives
+### 🎯 Tujuan Quest
 
-- Manage equipment and categories.
-- Submit equipment borrowing requests.
-- Verify borrowing requests.
-- Track borrowing and returns.
-- Generate borrowing reports.
+- Mengelola data alat dan kategori.
+- Mengajukan peminjaman alat.
+- Memverifikasi permohonan.
+- Melacak peminjaman dan pengembalian.
+- Membuat laporan peminjaman.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Equipment Used
+### ⚙️ Teknologi yang Digunakan
 
 - PHP
 - MySQL / MariaDB
-- HTML
-- CSS
+- HTML dan CSS
 - JavaScript
 - Bootstrap
 
@@ -163,77 +293,111 @@ My journey is still in progress. Every bug is a monster to defeat, every project
 
 <div align="center">
 
-**QUEST STATUS: DEPLOYED**
+**STATUS QUEST: SELESAI DI-DEPLOY**
 
-[**🌐 Visit the Live Website →**](https://peminjamanalat.site.je/)
-
-</div>
-
-> The live demo is public. The project's source-code repository remains private.
-
----
-
-## 📊 PLAYER STATISTICS
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=fairozi-dev&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairozi-dev&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" alt="Top Languages"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=fairozi-dev&theme=midnight-purple&hide_border=true&background=0D0221&ring=C77DFF&fire=FF9E00&currStreakLabel=E0AAFF" alt="GitHub Streak"/>
+[🌐 **KUNJUNGI APLIKASI →**](https://peminjamanalat.site.je/)
 
 </div>
 
+> Demo aplikasi tersedia secara publik, sedangkan repositori source code proyek tetap privat.
+
 ---
 
-## 🏆 ACHIEVEMENT GALLERY
+## 📊 STATISTIK PEMAIN
 
 <div align="center">
 
-| ACHIEVEMENT | DESCRIPTION | STATUS |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fairozi-dev&show_icons=true&hide_border=true&bg_color=101B16&title_color=E5C17B&text_color=D7E5D8&icon_color=91B88A&rank_icon=github&include_all_commits=true" alt="Statistik GitHub"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairozi-dev&layout=compact&hide_border=true&bg_color=101B16&title_color=E5C17B&text_color=D7E5D8" alt="Bahasa pemrograman teratas"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=fairozi-dev&theme=dark&hide_border=true&background=101B16&ring=E5C17B&fire=E5A84B&currStreakLabel=D7E5D8" alt="Streak kontribusi GitHub"/>
+
+</div>
+
+---
+
+## 🏆 GALERI ACHIEVEMENT
+
+<div align="center">
+
+| Achievement | Deskripsi | Status |
 |:--|:--|:--:|
-| 🧭 First Steps | Start the programming journey | UNLOCKED |
-| 🛠️ The Builder | Build a functional application | UNLOCKED |
-| 🌐 World Explorer | Deploy a website | UNLOCKED |
-| 🐛 Bug Hunter | Learn through debugging | IN PROGRESS |
-| 🔮 Code Apprentice | Learn new technologies | IN PROGRESS |
-| 👑 Future Legend | Keep improving as a developer | ONGOING |
+| 🧭 First Steps | Memulai perjalanan pemrograman | `UNLOCKED` |
+| 🛠️ The Builder | Membangun aplikasi fungsional | `UNLOCKED` |
+| 🌐 World Explorer | Meluncurkan website | `UNLOCKED` |
+| 🐛 Bug Hunter | Belajar melalui debugging | `IN PROGRESS` |
+| 🔮 Code Apprentice | Mempelajari teknologi baru | `IN PROGRESS` |
+| 👑 Future Legend | Terus berkembang sebagai developer | `ONGOING` |
 
 </div>
 
-*Personal milestones for my developer journey, not official GitHub achievements.*
+<sub>Achievement di atas adalah pencapaian pribadi dalam perjalanan belajar, bukan achievement resmi GitHub.</sub>
 
 ---
 
 ## 📖 QUEST LOG
 
-- [x] Start learning programming.
-- [x] Build a web-based application.
-- [x] Deploy a project online.
-- [x] Create a GitHub profile.
-- [ ] Improve programming fundamentals.
-- [ ] Build more interesting projects.
-- [ ] Explore modern frameworks.
-- [ ] Contribute to open-source projects.
-- [ ] Unlock new developer skills.
+- [x] Memulai belajar pemrograman.
+- [x] Membangun aplikasi berbasis web.
+- [x] Meluncurkan proyek secara online.
+- [x] Membuat profil GitHub.
+- [ ] Memperkuat dasar pemrograman.
+- [ ] Membuat lebih banyak proyek.
+- [ ] Mempelajari framework modern.
+- [ ] Berkontribusi pada proyek open-source.
+- [ ] Membuka skill developer baru.
+
+<details>
+<summary><b>🗝️ RUANGAN RAHASIA (klik untuk membuka)</b></summary>
+
+<br/>
+
+```text
+CHEAT CODE DITEMUKAN!
+
+  ↑ ↑ ↓ ↓ ← → ← → B A
+
+  +30 SEMANGAT NGODING
+  +1  CANGKIR KOPI (OPSIONAL)
+```
+
+Terima kasih sudah menjelajah sampai ruangan ini. Semoga petualanganmu juga penuh level baru. 🌟
+
+</details>
 
 ---
 
-## 🌙 THE ADVENTURE CONTINUES
-
 <div align="center">
 
-*Somewhere beyond the next bug, a new skill awaits.*
+```text
+╔═ CONTINUE? ════════════════════════════════╗
+║                                            ║
+║         PETUALANGAN BELUM BERAKHIR         ║
+║                                            ║
+║          > YA, LANJUT BERPETUALANG         ║
+║            YA, TAPI NGOPI DULU             ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
 
-**LEARN · BUILD · DEBUG · REPEAT**
+<img src="assets/pixel/ui/bubble_talk_left.png" width="48" alt="Balon dialog"/>
 
-[![Explore My GitHub](https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fairozi-dev)
+## 🌙 PETUALANGAN BERLANJUT
 
-[![Visit Live Demo](https://img.shields.io/badge/PLAY-LIVE%20DEMO-3C096C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peminjamanalat.site.je/)
+*Di balik bug berikutnya, selalu ada skill baru yang menunggu untuk ditemukan.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,30:C77DFF,65:7B2CBF,100:10002B&height=130&section=footer" alt="Fantasy Footer"/>
+**BELAJAR · MEMBANGUN · DEBUGGING · BERKEMBANG**
 
-<sub>Crafted with curiosity, powered by code, inspired by pixel fantasy RPGs.</sub>
+<a href="https://github.com/fairozi-dev"><img src="https://img.shields.io/badge/JELAJAHI-REPOSITORI-24392C?style=for-the-badge&logo=github&logoColor=white" alt="Repositori GitHub"/></a>
+<a href="https://peminjamanalat.site.je/"><img src="https://img.shields.io/badge/BUKA-DEMO%20LIVE-B58A42?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo aplikasi"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B2118&height=12" alt="Garis penutup hutan"/>
+
+<sub>Dibangun dengan rasa ingin tahu · Digerakkan oleh kode · Terinspirasi dunia pixel fantasy RPG</sub>
 
 </div>
